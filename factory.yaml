@@ -1,0 +1,30 @@
+{
+  "agents": {
+    "entry": "none",
+    "vendors": [
+      "claude",
+      "codex"
+    ]
+  },
+  "commands": {},
+  "governed_by": "hand",
+  "kind": "org-defaults",
+  "lanes": [],
+  "laws": [],
+  "ledger": "git history",
+  "merge_queue": false,
+  "name": ".github",
+  "owner": {
+    "steward_topic": "factory"
+  },
+  "pin": {
+    "revision": "3581a93cbc041dfb99cd10f51cbda605ab7eba73",
+    "sha256": "2b506776333bfe653c0aa37def5d61a7b3da8667d6d0955fbf96f286cd29f2fb"
+  },
+  "purpose": "the organisation's public face on the forge; today profile/README.md only, no shared workflow or template yet",
+  "remit": false,
+  "schema": "factory/v1",
+  "signing": "forge",
+  "silent_main": "Organisation profile and defaults only; no repository agent session or workflow by design.",
+  "stacks": []
+}
