@@ -18,8 +18,8 @@
     "steward_topic": "factory"
   },
   "pin": {
-    "revision": "d7c8f36ff92c26d38ed4fa4c6e3ead13828e9d01",
-    "sha256": "16190c25406664b94086e44a1bafcee942597e9a3bc99368dfd048c4590efce5"
+    "revision": "ffb6972c1d95ce8afbf58e845afcd63030fb9806",
+    "sha256": "b57d5fdb44f85dce4cb8b2baeca978ee5aff8e417f96bbdfd5eea91fa8388b3f"
   },
   "purpose": "the organisation's public face on the forge; today profile/README.md only, no shared workflow or template yet",
   "remit": false,
