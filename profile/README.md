@@ -27,4 +27,4 @@ its own governance — every change to the tool passes through the tool.
 | 🔔 One mail at v0.1, nothing else | [get notified](https://attestory.ai/#cta) |
 | ✉️ Contact | hello@attestory.ai |
 
-<sub>Product family in development: <code>remit</code> · <code>marque</code> · <code>stele</code> · <code>jurat</code>. There is no reference implementation for governed AI delivery to copy — this is the reference.</sub>
+<sub>Further layers in development cover governance of agent permissions, independent attestation, and a public ledger.</sub>
